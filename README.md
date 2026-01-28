@@ -1,6 +1,6 @@
 # TimeTravelArchived
 
-## Download [Latest Archive](https://github.com/ilyacdt/TimeTravelArchived/releases/download/PRE-1.4.5/Time.Travel.PRE-1.4.5.zip).
+### Download latest [Archive](https://github.com/ilyacdt/TimeTravelArchived/releases/download/PRE-1.4.5/Time.Travel.PRE-1.4.5.zip).
 
 This pack mimics 1.0.5 - 1.2 Terraria by changing visuals, text, music and sounds
 
